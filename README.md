@@ -15,5 +15,3 @@ With that being said, the predictions have not been dead on, but they have been 
 The good news about making most of the machine learning projects I have worked on so far is that by tweaking a few key parameters you can drastically influence the accuracy of the model and predictions.
 
 As with my last project, if you are interested and want to learn more about how this program actually works, feel free to reach out to me on Twitter or LinkedIn and I will do my best to explain it to you or answer any questions you have about it. 
-
-Thank you for your interest, and have fun coding!
